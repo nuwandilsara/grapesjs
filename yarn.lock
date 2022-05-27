@@ -2456,6 +2456,13 @@ backbone-undo@^0.2.5:
   dependencies:
     underscore ">=1.8.3"
 
+backbone@1.4.1:
+  version "1.4.1"
+  resolved "https://registry.yarnpkg.com/backbone/-/backbone-1.4.1.tgz#099a78184bc07b034048a8332229c2ccca1e3e62"
+  integrity sha512-ADy1ztN074YkWbHi8ojJVFe3vAanO/lrzMGZWUClIP7oDD/Pjy2vrASraUP+2EVCfIiTtCW4FChVow01XneivA==
+  dependencies:
+    underscore ">=1.8.3"
+
 bail@^1.0.0:
   version "1.0.5"
   resolved "https://registry.npmjs.org/bail/-/bail-1.0.5.tgz"
@@ -3312,10 +3319,8 @@ concat-stream@^2.0.0:
   version "2.0.0"
   resolved "https://registry.npmjs.org/concat-stream/-/concat-stream-2.0.0.tgz"
   dependencies:
-    buffer-from "^1.0.0"
     inherits "^2.0.3"
     readable-stream "^3.0.2"
-    typedarray "^0.0.6"
 
 concat-stream@~1.5.0:
   version "1.5.2"
